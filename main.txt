@@ -1,8 +1,9 @@
 Adicionando arquivo main.txt
-<<<<<<< HEAD
-Nova linha no arquivo main.txt
-=======
 
+Nova linha no arquivo main.txt
 
 Outra linha
->>>>>>> 2eb48fa1f191738dc926c7bb83e6e527b4b9a607
+
+
+
+nova linha remoto fetch
